@@ -8,6 +8,7 @@ Mascilon only requests basic Google profile information (email, name, profile pi
 
 <p align="center">
   <img src="images/1.png" alt="Mascilon app preview" width="300" />
+  <img src="images/2.png" alt="Mascilon app preview" width="300" />
 </p>
 
 
