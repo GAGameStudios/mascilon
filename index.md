@@ -1,5 +1,3 @@
-# Mascilon
-
 Welcome to **Mascilon** 🎓✨  
 Mascilon is a free mobile app that helps students prepare for the Israeli Psychometry exam through fun and interactive games.  
 The app focuses on Hebrew vocabulary, sentence completion, and other verbal reasoning skills.
