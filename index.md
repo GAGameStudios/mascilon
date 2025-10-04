@@ -7,8 +7,12 @@ We use Google Sign-In to let users easily create an account, save their progress
 Mascilon only requests basic Google profile information (email, name, profile picture) and does not access any other Google data.
 
 <p align="center">
-  <img src="images/1.png" alt="Mascilon app preview" width="300" />
-  <img src="images/2.png" alt="Mascilon app preview" width="300" />
+  <img src="images/1.png" alt="Mascilon app preview" width="250" />
+  <img src="images/2.png" alt="Mascilon app preview" width="250" />
+  <img src="images/3.png" alt="Mascilon app preview" width="250" />
+  <img src="images/4.png" alt="Mascilon app preview" width="250" />
+  <img src="images/5.png" alt="Mascilon app preview" width="250" />
+  <img src="images/6.png" alt="Mascilon app preview" width="250" />
 </p>
 
 
